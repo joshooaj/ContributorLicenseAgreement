@@ -52,7 +52,7 @@ If your company has an agreement with Microsoft where only certain users are all
 For each user that you want to allow making contributions, add the github username as a line in the csv file (no commas).
 
 ### List of Approved Bots
-In order to allow bots to create and merge pull requests, they must be pre-approved. Pre-approving bots is done by adding the bot name to the *approvedBos.csv* file located in the [cla-approved-bots](https://github.com/microsoft/cla-approved-bots) repo.
+In order to allow bots to create and merge pull requests, they must be pre-approved. Pre-approving bots is done by adding the bot name to the *approvedBots.csv* file located in the [cla-approved-bots](https://github.com/microsoft/cla-approved-bots) repo.
 
 
 ## Commands
